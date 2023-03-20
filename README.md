@@ -2,7 +2,6 @@
 
 - 🔭 Hoje sou aluno da Universidade Estácio de Sá. Estou cursando Desenvolvimento Full Stack.
 - 🌱 Estudando: Python
-- 😄 Pronouns: Ele / Dele
 
 
 <br>
