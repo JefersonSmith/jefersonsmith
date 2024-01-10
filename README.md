@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Jeferson Smith
 
 - 🔭 Hoje sou aluno da Universidade Estácio de Sá. Estou cursando o 2º período de Desenvolvimento Full Stack.
-- 🌱 Estudando: HTML, CSS, JAVASCRIPT e TYPESCRIPT
-- 📗 Concluído: Python
+- 🌱 Estudando: JAVA
+- 📗 Concluído: PYTHON, HTML, CSS, JAVASCRIPT e TYPESCRIPT
 
 
 <br>
